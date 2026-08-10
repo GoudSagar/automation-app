@@ -10,3 +10,17 @@
    * git config
    * git show
    * git rm
+* Branches
+* Tags
+--------------------------------------------------------------------------------------------------------------
+* Merge & Rebase
+* Cherry-pick
+--------------------------------------------------------------------------------------------------------------
+* Github Account creation
+--------------------------------------------------------------------------------------------------------------
+* Administration of Github PART-1
+    * Repository creation and deletion
+    * Branch creation and deletion
+    * Tag creation and deletion
+    * Add files and commit changes
+    * List commit and check detailed info about commits
